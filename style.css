@@ -288,7 +288,8 @@ header .btn2:hover{
     width: 69.479vw;
     height: 100vh;
     display: flex;flex-direction: column;
-    justify-content: center;align-items: center;
+    justify-content: center; align-items: center;
+    position: relative;
 }
 .wrapper-title1-txt{
     width: 69.479vw;
@@ -309,11 +310,11 @@ header .btn2:hover{
     height: 5.5vw;
 }
 .slide3-image{
-    width: 69.479vw;
+    width: 100%;
     height: 40vw;
     background-image: url(img/ozero4.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     margin-top: 2vw;
 }
 .slide3 .btn1{
@@ -321,7 +322,7 @@ header .btn2:hover{
     cursor: pointer;
     height: 2.6vw;
     border-bottom: 0.2vw solid rgba(216, 216, 216, 1);
-    margin-top: 1vw;
+    margin-top: 20px;
 }
 .slide6 .btn1:hover .arrow,
 .slide3 .btn1:hover .arrow{
