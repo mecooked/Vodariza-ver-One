@@ -14,11 +14,9 @@
 Одностраничный лендинг для бренда Водарица. Водарица — это вода, добытая из уникального природного источника в экологически чистом регионе Абхазии, у легендарного озера Рица. 
 Главная фишка проекта - *тематические анимации на GSAP*. Плавность, параллакс, интерактивность.
 
-<img width="100%" height="100%" alt="Desktop 2026 08 06 - 16 16 03 01 (online-video-cutter com) (2)" src="https://github.com/user-attachments/assets/175a3922-3774-4855-af54-c18219c8d3e8" />
+<img width="100%" height="100%" alt="Desktop 2026 08 10 - 16 03 37 05 (online-video-cutter com) (2)" src="https://github.com/user-attachments/assets/3ec01f0e-8f6e-4849-8bcc-458a1e085973" />
 
-<img width="100%" height="100%" alt="Desktop 2026 08 07 - 21 54 44 01 (online-video-cutter com)" src="https://github.com/user-attachments/assets/cdd7f236-bd00-44cc-a87f-c545b2be41f4" />
-
-<img width="100%" height="100%" alt="Desktop 2026 08 07 - 22 39 40 02 (online-video-cutter com)" src="https://github.com/user-attachments/assets/69cc9426-0662-46f5-a846-c76b2ba6b816" />
+<img width="100%" height="100%" alt="Desktop 2026 08 10 - 16 03 02 04 (online-video-cutter com)" src="https://github.com/user-attachments/assets/787a0f5e-66e4-4c1a-908d-d02148f41fe5" />
 
 ## 🔹 Стек технологий
 * **Вёрстка** - HTML5, CSS3;
