@@ -1,6 +1,6 @@
 # ВОДАРИЦА
 
-**[Смотреть сайт (Live Demo) ➔](https://mecooked.github.io/Vodariza-ver-One/)**
+> **[Открыть сайт](https://mecooked.github.io/Vodariza-ver-One/)**
 
 <img width="2493" height="1091" alt="Component 37" src="https://github.com/user-attachments/assets/6893d254-a333-4826-a135-3e21f3d7756d" />
 
@@ -29,4 +29,4 @@
 * **Дизайн** - Figma.
 
 ## 🔹 Связаться со мной
-Почта: ---
+Почта: betomu-work@yandex.ru
