@@ -12,9 +12,9 @@
 * Параллакс через data-speed - изменение скорости пролистывания разных элементов;
 * Анимации методом gsap.from, где указывается конечное положение с атрибутами анимации. Множество анимаций для исключения повторения одного и того же кода сделаны через фабричный метод. Есть одна функция и при её вызове подставляются значения для этого элемента 
 
-<img width="100%" height="100%" alt="screen 1" src="https://github.com/user-attachments/assets/3ec01f0e-8f6e-4849-8bcc-458a1e085973" />
+https://github.com/user-attachments/assets/69c953d7-42a1-4efe-af4b-797531e3bff1
 
-<img width="100%" height="100%" alt="screen 2" src="https://github.com/user-attachments/assets/787a0f5e-66e4-4c1a-908d-d02148f41fe5" />
+https://github.com/user-attachments/assets/1a9c66cd-0be7-49ea-a6ad-fda881c609fa
 
 <img width="100%" height="100%" alt="screen 3" src="https://github.com/user-attachments/assets/cac47c12-7f99-4801-b1fd-e576e4e2a6ad" />
 
