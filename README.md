@@ -18,7 +18,11 @@ https://github.com/user-attachments/assets/1a9c66cd-0be7-49ea-a6ad-fda881c609fa
 
 <img width="100%" height="100%" alt="screen 3" src="https://github.com/user-attachments/assets/cac47c12-7f99-4801-b1fd-e576e4e2a6ad" />
 
+<br><br>
+
 > Дизайн был выполнен по референс-концепту агентства (учебная практика)
+
+<br>
 
 ### 🔹 Задачи
 * UI-UX дизайн;
